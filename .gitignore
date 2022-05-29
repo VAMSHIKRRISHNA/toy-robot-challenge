@@ -1,10 +1,12 @@
 #dependencies 
 node_modules/
 
+
 #testing
 /covergae
 
 #production
-/build
+*/dist
 
 npm-debug-log*
+*/package-lock.json
