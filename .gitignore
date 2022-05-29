@@ -1,0 +1,10 @@
+#dependencies 
+node_modules/
+
+#testing
+/covergae
+
+#production
+/build
+
+npm-debug-log*

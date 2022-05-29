@@ -1,0 +1,19 @@
+{
+  "name": "toy-robot",
+  "version": "1.0.0",
+  "description": "This is a coding challenge in typescript",
+  "main": "index.js",
+  "scripts": {
+    "load": "npx http-server",
+    "build": "webpack-cli"
+  },
+  "author": "Vamshi Nandyala",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.0",
+    "ts-loader": "^9.3.0",
+    "typescript": "^4.7.2",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
